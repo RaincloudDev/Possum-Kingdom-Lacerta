@@ -23,6 +23,3 @@
 [color=blue][size=28][I]ALLIANCES: N/A [/I][/color][/size]
 [color=red][size=28][I]AT WAR: N/A [/I][/color][/size]
 [color=yellow][size=32][I]FOUNDER: [player]PANDA MAN[/player][/I][/color][/size][/align]
-
-
-[background]
